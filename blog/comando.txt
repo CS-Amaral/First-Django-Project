@@ -1,0 +1,3 @@
+myvenv\Script\activate (Codigo virtual)
+python manage.py runserver (Executar o servidor)
+python manage.py shell (Shell do python)
